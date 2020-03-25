@@ -26,13 +26,13 @@ Automated image captioning using Keras and Flickr8k Dataset
    Both the feature extractor and sequence processor output are merged together and processed by a dense layer to make a final prediction.
   
  ### References
- 
-  1.https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
-  2.https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+
+1. https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+2. https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
  
  ### Kaggle Link
  
-  https://www.kaggle.com/gayathri9082/automated-image-captioning-flickr8/edit
+ https://www.kaggle.com/gayathri9082/automated-image-captioning-flickr8/edit
  
  
     
