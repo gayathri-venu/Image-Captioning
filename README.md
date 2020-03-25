@@ -30,6 +30,11 @@ Automated image captioning using Keras and Flickr8k Dataset
  1.https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
  2.https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
  
+ ### Kaggle Link
+ 
+ https://www.kaggle.com/gayathri9082/automated-image-captioning-flickr8/edit
+ 
+ 
     
   
      
