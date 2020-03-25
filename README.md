@@ -1,8 +1,8 @@
-#Image Captioning
+**Image Captioning**
 
 Automatic image captioning using Keras and Flickr8k Dataset
 
-###Approach used:
+**Approach used:**
 
 1.Loading Data 
     Extracting captions and storing into dictionary format.
@@ -19,7 +19,7 @@ Automatic image captioning using Keras and Flickr8k Dataset
 7.Prediction
      Both the feature extractor and sequence processor output are merged together and processed by a dense layer to make a final prediction.
   
- ###References
+ **References**
  
  1.https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
  2.https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
