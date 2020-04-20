@@ -27,11 +27,11 @@ Automated image captioning using Keras and Flickr8k Dataset
    
  ### Output
  
- ![Output 1](https://github.com/gayathri-venu/DeepPixel/blob/master/deeppixel/Image_Captioning/output/1.png)
+ ![Output 1](https://github.com/gayathri-venu/Image-Captioning/blob/master/output/1.png)
  
- ![Output 2](https://github.com/gayathri-venu/DeepPixel/blob/master/deeppixel/Image_Captioning/output/2.png)
+ ![Output 2](https://github.com/gayathri-venu/Image-Captioning/blob/master/output/2.png)
  
- ![Output 3](https://github.com/gayathri-venu/DeepPixel/blob/master/deeppixel/Image_Captioning/output/3.png)
+ ![Output 3](https://github.com/gayathri-venu/Image-Captioning/blob/master/output/3.png)
   
   
  
